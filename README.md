@@ -135,6 +135,11 @@ cd twitter-clone
   - `index.css`: Global styles.
   - `tailwind.css`: Tailwind CSS configuration.
 
+
+## Deployed Version
+
+You can access the deployed version of the project here: **[Deployed Link](https://twitter-clone-zzxv.onrender.com)**
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
